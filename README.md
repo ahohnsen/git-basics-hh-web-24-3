@@ -10,7 +10,7 @@
 - `git remote -v`
 - `git remote add origin <ssh link>`
 
-## Git Branches & PRs
+## Git Branches and PRs
 
 - `git switch -c <branch-name>`
 - `git switch <branch-name>`
