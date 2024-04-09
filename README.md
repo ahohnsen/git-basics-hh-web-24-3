@@ -1,6 +1,6 @@
 # Git Basics
 
-## Git CLI & Remote
+## Git CLI and Remote
 
 - `git init`
 - `git status`
@@ -10,7 +10,8 @@
 - `git remote -v`
 - `git remote add origin <ssh link>`
 
-## Git Branches & PRs
+## Git Branches and PRs
 
 - `git switch -c <branch-name>`
-- `git switch <branch-name`
+- `git switch <branch-name>`
+- `git switch -`
