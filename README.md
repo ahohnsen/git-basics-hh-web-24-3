@@ -1,6 +1,6 @@
 # Git Basics
 
-## Git CLI & Remote
+## Git CLI and Remote
 
 - `git init`
 - `git status`
