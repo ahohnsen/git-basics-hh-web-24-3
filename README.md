@@ -9,3 +9,8 @@
 - `git push -u origin main` / `git push`
 - `git remote -v`
 - `git remote add origin <ssh link>`
+
+## Git Branches & PRs
+
+- `git switch -c <branch-name>`
+- `git switch <branch-name`
